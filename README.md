@@ -1,2 +1,2 @@
 # Urban-Land-Structures-Classification
-The data had Structures of a city like building,car, concrete, tree etc. The atrributes were properties of each of these structures. I have implemented Feature Selection and various classification algorithms to classify the structures based on its features.
+The data had Structures of a city like building,car, concrete, tree etc. The atrributes were properties of each of these structures. I have implemented Feature Selection and various classification algorithms to classify the structures based on its features. To validate the  model, I have done cross validation. for performance metrics, I have calculated the precision score, accuracy, and the recall for each classifier used. 
